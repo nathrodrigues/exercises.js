@@ -9,4 +9,4 @@ function verificaPalindromo(string) {
     return string.split("").reverse().join("") === string
 }
 
-console.log(verificaPalindromo("armario"))
+console.log(verificaPalindromo("ama"))
